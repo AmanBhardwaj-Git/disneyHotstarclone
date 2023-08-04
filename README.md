@@ -1,5 +1,5 @@
 # BasicProject-Repo
-###https://amanbhardwaj-git.github.io/BasicProject-Repo/
+https://amanbhardwaj-git.github.io/BasicProject-Repo/
 
 ## Disney+ Hotstar Front-end Clone
 Welcome to this repository containing a front-end clone of the Disney+ Hotstar website, built using pure HTML, CSS, and JavaScript.
