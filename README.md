@@ -23,4 +23,5 @@ This repository is based on front-end clone of the Disney+ Hotstar website, made
 The project is not linked with Disney and Hotstar and is not  for commercial gain.
 
 ### ScreenShot
-![Screenshot (19)](https://github.com/AmanBhardwaj-Git/BasicProject-Repo/assets/141410524/740173a7-8b80-4a0b-8eae-a3655cd81167)
+![Screenshot (19)](https://github.com/AmanBhardwaj-Git/BasicProject-Repo/assets/141410524/b09f2436-d34d-4e8d-8e24-6d2f6e8e6502)
+
