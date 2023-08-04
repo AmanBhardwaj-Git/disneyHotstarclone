@@ -13,6 +13,7 @@ Welcome to this repository containing a front-end clone of the Disney+ Hotstar w
 
 ### Languages
 
+
 - HTML5
 - CSS3
 - JavaScript
@@ -20,3 +21,6 @@ Welcome to this repository containing a front-end clone of the Disney+ Hotstar w
 ### Details
 This repository is based on front-end clone of the Disney+ Hotstar website, made with  HTML, CSS, and JavaScript.
 The project is not linked with Disney and Hotstar and is not  for commercial gain.
+
+### ScreenShot
+![Screenshot (19)](https://github.com/AmanBhardwaj-Git/BasicProject-Repo/assets/141410524/740173a7-8b80-4a0b-8eae-a3655cd81167)
